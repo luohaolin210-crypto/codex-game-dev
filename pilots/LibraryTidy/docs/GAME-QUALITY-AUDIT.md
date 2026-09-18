@@ -62,7 +62,7 @@ No human-player, physical-device, or unfamiliar-player evidence is published her
 
 - OVERFEEDBACK_GATE: static-contract review did not identify a blocking or uncontrolled feedback stack; runtime validation remains pending.
 - UI hard gates: static evidence was reviewed; real visual/device validation remains pending.
-- Gameplay quality: findings recorded; not automatically passed.
+- Gameplay quality: findings recorded; not automatically approved.
 - REAL PLAYTEST: PENDING.
 
 ## Conclusion
