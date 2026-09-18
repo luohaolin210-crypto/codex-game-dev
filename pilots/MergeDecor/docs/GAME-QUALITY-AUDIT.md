@@ -67,7 +67,7 @@ OVERFEEDBACK_GATE: static-contract review did not identify a blocking or uncontr
 
 - UI hard gates: static evidence was reviewed; real visual/device validation remains pending.
 - Rendering/performance: static evidence reviewed; target-device metrics remain pending.
-- Gameplay quality: findings recorded; not automatically passed.
+- Gameplay quality: findings recorded; not automatically approved.
 - REAL PLAYTEST: PENDING.
 
 ## Conclusion
