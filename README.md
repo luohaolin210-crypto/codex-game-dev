@@ -11,12 +11,13 @@
 
 ## 目录
 
-- `SKILL.md)：Codex 在游戏项目中应遵循的主工作指令。
+- `SKILL.md`：Codex 在游戏项目中应遵循的主工作指令。
 - `docs/quality-gates.md`：四类质量闸门与最低验收标准。
 - `docs/workflow.md`：从想法到可玩的垂直切片，再到交付的工作流。
 - `templates/game-brief.md`：项目启动简报。
 - `templates/visual-spec.md`：视觉方向与资产规格。
 - `templates/playtest-report.md`：试玩记录与问题排序。
+- `docs/calling-guide.md`：安装、Router、专项 Skill 和典型任务的调用教程。
 
 ## 使用方式
 
