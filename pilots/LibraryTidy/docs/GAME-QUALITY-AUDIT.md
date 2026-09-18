@@ -67,4 +67,4 @@ No human-player, physical-device, or unfamiliar-player evidence is published her
 
 ## Conclusion
 
-PILOT_AUDIT = PASS means the read-only audit was executed and its public-safe conclusions were recorded. It does not mean the game passed gameplay quality, visual quality, or human playtest gates.
+PILOT_AUDIT = PASS means the read-only audit was executed and its public-safe conclusions were recorded. It does not establish gameplay quality, visual quality, or human playtest approval.
