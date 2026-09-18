@@ -29,7 +29,7 @@
 - 用质量闸门约束“看起来完成”与“有证据完成”的区别。
 - 用模板把简报、视觉规格和试玩报告留下来。
 
-参考的格式来源：[pa4uslf/Codex-Game-Studios](https://github.com/pa4uslf/Codex-Game-Studios)。本教程只借鉴其文档组织方式，不复制其角色、工作流或实现内容。
+
 
 ## 目录
 
